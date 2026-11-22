@@ -1,3 +1,5 @@
 memory01.bmp
 memory02.bmp
 memory03.bmp
+memory04.bmp
+memory05.bmp
